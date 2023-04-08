@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**Karthick1704/Karthick1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ Hi there. Thank you for visiting my GitHub Page. Glad you like my project!!!!!
 
 - 🔭 I’m fresher and I am currently a student
 - 🌱 I’m currently learning mechanical engineering with 8 CGPA in Francis Xavier Engineering College.
