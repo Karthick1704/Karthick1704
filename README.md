@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Karthick1704/Karthick1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: karthic1704@gmail.com.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: mechanical engineer with IT interests..
--->
+
