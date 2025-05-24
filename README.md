@@ -5,9 +5,9 @@
 - 🗄️ I have worked on both on prem and cloud linux servers. 🎩🐧 (RHEL, Ubuntu, Centos)
 - 🌱 I have completed mechanical engineering with 8.49 CGPA in Francis Xavier Engineering College in Jul 2022
 - 👯 I’m looking to collaborate on codes which I am beginner in and I am willing to learn a lot about coding.
-- 🤔 I’m looking for help with simple projects and coding debugs.
-- 💬 Ask me about bascics of python and C++, DBMS, SQL.
-- 📫 How to reach me: karthic1704@gmail.com.
-- 😄 Pronouns: ...
+- 🤔 I’m interested to help with High Level projects and coding debugs.
+- 💬 Ask me about Python and C++, DBMS, SQL,  Clinical SAS, DevOps Related queries.
+- 📫 How to reach me: karthic1704@gmail.com / Linkedin : https://www.linkedin.com/in/karthi1704--/
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: mechanical engineer with IT interests..
 
