@@ -4,7 +4,7 @@
 - 🌐🚀🔄 I am experienced in Azure Devops Tools, ☸️ Kubernetes, 🐳 Docker, Ⓐ Ansible, 🟪 Terraform codes.
 - 🗄️ I have worked on both on prem and cloud linux servers. 🎩🐧 (RHEL, Ubuntu, Centos)
 - 🌱 I have completed mechanical engineering with 8.49 CGPA in Francis Xavier Engineering College in Jul 2022
-- 👯 I’m looking to collaborate on codes which I am beginner in and I am willing to learn a lot about coding.
+- 👯 I’m looking to collaborate on codes-level projects and I am willing to learn a lot about technology.
 - 🤔 I’m interested to help with High Level projects and coding debugs.
 - 💬 Ask me about Python and C++, DBMS, SQL,  Clinical SAS, DevOps Related queries.
 - 📫 How to reach me: karthic1704@gmail.com / Linkedin : https://www.linkedin.com/in/karthi1704--/
