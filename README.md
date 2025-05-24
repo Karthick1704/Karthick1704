@@ -1,4 +1,4 @@
- Hi there. Thank you for visiting my GitHub Page. Glad you like my project!!!!!
+ Hi there. Thank you for visiting my GitHub Page. Glad you like my projects!!!!!
 
 - 🔭 I’m fresher and I am currently working in Tata Consultancy Service as System Engineer.
 - 🌐🚀🔄 I am experienced in Azure Devops Tools, ☸️ Kubernetes, 🐳 Docker, Ⓐ Ansible, 🟪 Terraform codes.
