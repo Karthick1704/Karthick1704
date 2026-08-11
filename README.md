@@ -15,4 +15,5 @@ Typescript, ☸️ Kubernetes, 🐳 Docker, Ⓐ Ansible, 🟪 Terraform codes.
 - 📫 How to reach me: karthic1704@gmail.com / Linkedin : https://www.linkedin.com/in/karthi1704--/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: IT guy who is obessed with AI..
+- 🖱 Working all the way with Claude, Cursor, Lovable , Chatgpt, Gemini for coding projects, Image creation, video creation.
 
